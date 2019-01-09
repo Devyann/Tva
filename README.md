@@ -1,9 +1,7 @@
 # tva
 
-## Project setup
-```
-npm install
-```
+Une application simple pour la découverte de Vue.js
+
 
 ### Compiles and hot-reloads for development
 ```
@@ -19,11 +17,3 @@ npm run build
 ```
 npm run test
 ```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
